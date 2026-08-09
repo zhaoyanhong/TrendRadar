@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-08-09T07:35:31.239380+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-08-09T10:06:59.112843+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "全部新闻",
-      "match_count": 482,
+      "match_count": 614,
       "titles": [
-        {
-          "title": "伊媒发布伊朗最高领袖视频",
-          "url": "https://www.toutiao.com/trending/7671613890689502783/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "2026年“未录满”本科专业排行榜出炉",
-          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E2%80%9C%E6%9C%AA%E5%BD%95%E6%BB%A1%E2%80%9D%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%87%BA%E7%82%89",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
         {
           "title": "多家A股公司：收到美国关税退税",
           "url": "https://www.cls.cn/detail/2449086",
@@ -37,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -48,13 +26,24 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "BLG平推EDG,文波团战游龙",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356970&amp;topic_name=BLG%E5%B9%B3%E6%8E%A8EDG%2C%E6%96%87%E6%B3%A2%E5%9B%A2%E6%88%98%E6%B8%B8%E9%BE%99",
           "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "2026年“未录满”本科专业排行榜出炉",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E2%80%9C%E6%9C%AA%E5%BD%95%E6%BB%A1%E2%80%9D%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
           "ranks": [
             1
           ],
@@ -74,24 +63,24 @@
           "time_info": "[00时41分 ~ 06时36分]"
         },
         {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "新疆4A级及以上景区自驾服务费均改为按车收费",
           "url": "https://m.thepaper.cn/newsDetail_forward_33744766",
           "source": "澎湃新闻",
           "ranks": [
             1,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -131,34 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "如何评价超前点映中，由文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
-          "url": "https://www.zhihu.com/question/2068425373046544035",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "欣小萌俄罗斯坐坦克打枪",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A3%E5%B0%8F%E8%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E5%9D%A6%E5%85%8B%E6%89%93%E6%9E%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -168,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
@@ -179,8 +142,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "胚胎案原配申请终止离婚",
@@ -190,8 +153,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "几元成本的AI广告导致千万市值蒸发",
@@ -203,31 +166,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时41分 ~ 06时36分]"
-        },
-        {
-          "title": "KSG战胜AG.AL KWC",
-          "url": "https://search.bilibili.com/all?keyword=AG.AL%20KSG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 07时35分]"
-        },
-        {
-          "title": "完蛋男同学主创回应",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%8C%E8%9B%8B%E7%94%B7%E5%90%8C%E5%AD%A6%E4%B8%BB%E5%88%9B%E5%9B%9E%E5%BA%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
         },
         {
           "title": "AAOI业绩爆了，带飞整个光通信",
@@ -254,19 +192,6 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "苏州平江历史街区老树疑遭“钻孔灌药”，姑苏区住建委：将持续跟进救助事宜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33743298",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "一周“靓”数",
           "url": "https://www.toutiao.com/trending/7671626556606795290/",
           "source": "今日头条",
@@ -274,8 +199,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "生产也能“拼单”了",
@@ -285,8 +210,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "政治局会议后北京率先出手：下调非京籍五环内购房门槛 公积金贷款最高可达340万元",
@@ -296,8 +221,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "伊朗媒体发布“被击落美以战机残骸”画面",
@@ -307,8 +232,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "数说城市地下管网",
@@ -318,8 +243,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "诺兰凭奥德赛冲进导演榜前三",
@@ -329,8 +254,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[01时36分 ~ 10时06分]"
         },
         {
           "title": "本周这些数据最值得关注",
@@ -340,8 +265,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[01时36分 ~ 10时06分]"
         },
         {
           "title": "只有小时候发烧才有这种感觉",
@@ -355,6 +280,34 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时41分 ~ 07时35分]"
+        },
+        {
+          "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
+          "url": "https://wallstreetcn.com/articles/3778987",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "苏州平江历史街区老树疑遭“钻孔灌药”，姑苏区住建委：将持续跟进救助事宜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33743298",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "白海豚将正面袭击贯穿浙江",
@@ -377,8 +330,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "于东来 8 月 5 日官宣：2030 年后停止所有经营项目发展，转型「学校式企业」，这种打法在商业上站得住吗？",
@@ -394,30 +347,6 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
-          "url": "https://wallstreetcn.com/articles/3778987",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "央视新主播李秋莹孙亚鹏亮相",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%96%B0%E4%B8%BB%E6%92%AD%E6%9D%8E%E7%A7%8B%E8%8E%B9%E5%AD%99%E4%BA%9A%E9%B9%8F%E4%BA%AE%E7%9B%B8",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
@@ -425,8 +354,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "现场录音！商船在霍尔木兹海峡遇袭，船员紧急呼救：我们正在灭火",
@@ -436,8 +365,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "用慢充旅行治愈自己",
@@ -447,8 +376,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行",
@@ -460,6 +389,30 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 05时36分]"
+        },
+        {
+          "title": "蔡皋领取国际安徒生奖，“在孩子们心底种下真善美的种子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33743181",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "伊总统：伊朗要学中国做好自己的事",
@@ -474,39 +427,26 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "蔡皋领取国际安徒生奖，“在孩子们心底种下真善美的种子”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33743181",
-          "source": "澎湃新闻",
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
           "ranks": [
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "150元车上过夜费到底谁被做局了",
-          "url": "https://www.baidu.com/s?wd=150%E5%85%83%E8%BD%A6%E4%B8%8A%E8%BF%87%E5%A4%9C%E8%B4%B9%E5%88%B0%E5%BA%95%E8%B0%81%E8%A2%AB%E5%81%9A%E5%B1%80%E4%BA%86",
-          "source": "百度热搜",
+          "title": "早秋韩系奶油风穿搭",
+          "url": "https://www.douyin.com/hot/2602210",
+          "source": "抖音",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -520,26 +460,46 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
-          "source": "凤凰网",
+          "title": "如何评价超前点映中，由文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
+          "url": "https://www.zhihu.com/question/2068425373046544035",
+          "source": "知乎",
           "ranks": [
-            5
+            2,
+            1,
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "早秋韩系奶油风穿搭",
-          "url": "https://www.douyin.com/hot/2602210",
-          "source": "抖音",
+          "title": "欣小萌俄罗斯坐坦克打枪",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A3%E5%B0%8F%E8%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E5%9D%A6%E5%85%8B%E6%89%93%E6%9E%AA",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            3,
+            2,
+            1,
+            11
           ],
           "is_new": false,
           "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "time_info": "[01时36分 ~ 10时06分]"
+        },
+        {
+          "title": "KSG战胜AG.AL KWC",
+          "url": "https://search.bilibili.com/all?keyword=AG.AL%20KSG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            4,
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时36分 ~ 10时06分]"
         },
         {
           "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
@@ -550,11 +510,25 @@
             5,
             4,
             3,
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "完蛋男同学主创回应",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%8C%E8%9B%8B%E7%94%B7%E5%90%8C%E5%AD%A6%E4%B8%BB%E5%88%9B%E5%9B%9E%E5%BA%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "台风白海豚",
@@ -564,24 +538,24 @@
             5,
             7,
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "游客称睡私家车被酒店收 150 元过夜费，酒店回应费用涉及停车、使用厨具及衣物清洗等，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2068356033634898265",
-          "source": "知乎",
+          "title": "大连英博1:0辽宁铁人",
+          "url": "https://www.douyin.com/hot/2602441",
+          "source": "抖音",
           "ranks": [
-            3,
-            2,
-            7
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "《年会不能停！2》票房预测跌至 2.48 亿，甚至不到第一部票房的零头，问题出在哪里？",
@@ -593,11 +567,12 @@
             3,
             4,
             18,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "钟睒睒：感性消费被线上购物平台扼杀，必须限制平台能力",
@@ -606,24 +581,50 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3147026",
-          "source": "华尔街见闻-快讯",
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://www.toutiao.com/trending/7671613890689502783/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            3,
-            4
+            1,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "游客称睡私家车被酒店收 150 元过夜费，酒店回应费用涉及停车、使用厨具及衣物清洗等，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2068356033634898265",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "作者来整活,豆包成主角DS器灵",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356971&amp;topic_name=%E4%BD%9C%E8%80%85%E6%9D%A5%E6%95%B4%E6%B4%BB%2C%E8%B1%86%E5%8C%85%E6%88%90%E4%B8%BB%E8%A7%92DS%E5%99%A8%E7%81%B5",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -638,29 +639,34 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "作者来整活,豆包成主角DS器灵",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356971&amp;topic_name=%E4%BD%9C%E8%80%85%E6%9D%A5%E6%95%B4%E6%B4%BB%2C%E8%B1%86%E5%8C%85%E6%88%90%E4%B8%BB%E8%A7%92DS%E5%99%A8%E7%81%B5",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "美参议院通过临时拨款法案，暂缓政府“停摆”风险",
-          "url": "https://wallstreetcn.com/livenews/3147025",
+          "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3147026",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            2,
             3,
             4,
-            5
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "上半年国内手机销量TOP30出炉",
@@ -677,19 +683,42 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778993",
-          "source": "华尔街见闻",
+          "title": "美参议院通过临时拨款法案，暂缓政府“停摆”风险",
+          "url": "https://wallstreetcn.com/livenews/3147025",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8,
-            7,
+            3,
+            4,
             5,
-            4
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "央视新主播李秋莹孙亚鹏亮相",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%96%B0%E4%B8%BB%E6%92%AD%E6%9D%8E%E7%A7%8B%E8%8E%B9%E5%AD%99%E4%BA%9A%E9%B9%8F%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "150元车上过夜费到底谁被做局了",
+          "url": "https://www.baidu.com/s?wd=150%E5%85%83%E8%BD%A6%E4%B8%8A%E8%BF%87%E5%A4%9C%E8%B4%B9%E5%88%B0%E5%BA%95%E8%B0%81%E8%A2%AB%E5%81%9A%E5%B1%80%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "微博文化之夜之这是谁",
@@ -708,6 +737,22 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
           "title": "发现父母开始看自己脸色了",
           "url": "https://s.weibo.com/weibo?q=%E5%8F%91%E7%8E%B0%E7%88%B6%E6%AF%8D%E5%BC%80%E5%A7%8B%E7%9C%8B%E8%87%AA%E5%B7%B1%E8%84%B8%E8%89%B2%E4%BA%86&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -716,43 +761,12 @@
             8,
             7,
             4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 07时35分]"
-        },
-        {
-          "title": "歌剧老师锐评歌王之战",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
             5,
-            9,
-            13,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "这种手机壳可能是医疗垃圾做的",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            2,
-            4,
-            12,
-            13,
-            11
+            29
           ],
           "is_new": false,
           "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "time_info": "[01时36分 ~ 10时06分]"
         },
         {
           "title": "《工人日报》撰文批评郑钦文「盲目自信是自大…要听团队的劝」，对此你怎么看，《工人日报》说的对吗？",
@@ -771,6 +785,23 @@
           "time_info": "[02时45分 ~ 07时35分]"
         },
         {
+          "title": "歌剧老师锐评歌王之战",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5,
+            9,
+            13,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
           "title": "“青海和兰州在抢一碗面？”青海媒体：这种说法，格局小了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33745927",
           "source": "澎湃新闻",
@@ -780,8 +811,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时45分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[02时45分 ~ 10时06分]"
         },
         {
           "title": "钟意状态",
@@ -800,17 +831,49 @@
           "time_info": "[01时36分 ~ 07时35分]"
         },
         {
-          "title": "36岁男演员成景区NPC后人气爆棚",
-          "url": "https://www.toutiao.com/trending/7671250660881662002/",
-          "source": "今日头条",
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            14,
-            4
+            8,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "这种手机壳可能是医疗垃圾做的",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            2,
+            4,
+            12,
+            13,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "泽连斯基：乌美就“爱国者”导弹供应达成协议",
+          "url": "https://wallstreetcn.com/livenews/3147024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "金价猛涨踏空的人哭麻了",
@@ -841,31 +904,22 @@
           "time_info": "[02时45分 ~ 07时35分]"
         },
         {
-          "title": "逐帧解析凡人修仙传186集",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0186%E9%9B%86",
-          "source": "bilibili 热搜",
+          "title": "于东来称要关闭营业 24 年的生活广场店，每一个项目都是国际一流的品质，达不到的都关了，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069099745738593864",
+          "source": "知乎",
           "ranks": [
+            18,
+            17,
+            16,
+            14,
+            12,
             5,
-            27,
-            10,
-            7
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "泽连斯基：乌美就“爱国者”导弹供应达成协议",
-          "url": "https://wallstreetcn.com/livenews/3147024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "好像给麻辣烫店的脸太多了",
@@ -883,19 +937,33 @@
           "time_info": "[02时45分 ~ 07时35分]"
         },
         {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
+          "title": "36岁男演员成景区NPC后人气爆棚",
+          "url": "https://www.toutiao.com/trending/7671250660881662002/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5
+            15,
+            14,
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "逐帧解析凡人修仙传186集",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0186%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            27,
+            10,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "殡仪馆回应情侣平潭拍日出坠崖",
@@ -907,38 +975,34 @@
             12,
             14,
             13,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "台风白海豚到哪了",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%88%B0%E5%93%AA%E4%BA%86",
-          "source": "百度热搜",
+          "title": "警惕食品中的含糖陷阱",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%83%95%E9%A3%9F%E5%93%81%E4%B8%AD%E7%9A%84%E5%90%AB%E7%B3%96%E9%99%B7%E9%98%B1",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            7,
+            8,
+            29,
+            28,
+            23,
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "美国防部将中企列“黑名单”，被美法院驳回",
           "url": "https://news.ifeng.com/c/8vQWcxetEAc",
           "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "大连英博1:0辽宁铁人",
-          "url": "https://www.douyin.com/hot/2602441",
-          "source": "抖音",
           "ranks": [
             6
           ],
@@ -969,39 +1033,52 @@
           "time_info": "[00时41分 ~ 06时36分]"
         },
         {
-          "title": "长期穿碳板鞋的受害者出现了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%A9%BF%E7%A2%B3%E6%9D%BF%E9%9E%8B%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "台风白海豚到哪了",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%88%B0%E5%93%AA%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            20,
-            24,
-            17,
-            9,
-            8,
-            4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "于东来称要关闭营业 24 年的生活广场店，每一个项目都是国际一流的品质，达不到的都关了，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2069099745738593864",
-          "source": "知乎",
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            17,
-            16,
-            14,
-            12,
-            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "神人连线勇哥,1.9套餐全是坑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356962&amp;topic_name=%E7%A5%9E%E4%BA%BA%E8%BF%9E%E7%BA%BF%E5%8B%87%E5%93%A5%2C1.9%E5%A5%97%E9%A4%90%E5%85%A8%E6%98%AF%E5%9D%91",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "人总在夏天回忆冬天",
+          "url": "https://www.douyin.com/hot/2600977",
+          "source": "抖音",
+          "ranks": [
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "从“福利枪”利益链到深层枪支崇拜，泰国为何反复上演枪击悲剧？",
@@ -1016,41 +1093,23 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
+          "title": "长期穿碳板鞋的受害者出现了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%A9%BF%E7%A2%B3%E6%9D%BF%E9%9E%8B%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "神人连线勇哥,1.9套餐全是坑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356962&amp;topic_name=%E7%A5%9E%E4%BA%BA%E8%BF%9E%E7%BA%BF%E5%8B%87%E5%93%A5%2C1.9%E5%A5%97%E9%A4%90%E5%85%A8%E6%98%AF%E5%9D%91",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
-          "url": "https://www.cls.cn/detail/2449139",
-          "source": "财联社热门",
-          "ranks": [
+            18,
+            20,
+            24,
+            17,
+            9,
             8,
-            7,
-            6
+            4,
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "台风白海豚实时路径",
@@ -1060,35 +1119,13 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "沈腾演技",
           "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E6%BC%94%E6%8A%80",
           "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
-          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "人总在夏天回忆冬天",
-          "url": "https://www.douyin.com/hot/2600977",
-          "source": "抖音",
           "ranks": [
             7
           ],
@@ -1123,8 +1160,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "台风白海豚压境,华东严阵以待",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356969&amp;topic_name=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%8E%8B%E5%A2%83%2C%E5%8D%8E%E4%B8%9C%E4%B8%A5%E9%98%B5%E4%BB%A5%E5%BE%85",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -1139,16 +1200,18 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "台风白海豚压境,华东严阵以待",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356969&amp;topic_name=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%8E%8B%E5%A2%83%2C%E5%8D%8E%E4%B8%9C%E4%B8%A5%E9%98%B5%E4%BB%A5%E5%BE%85",
-          "source": "贴吧",
+          "title": "阿曼：霍尔木兹海峡通航安排谈判在积极氛围中推进",
+          "url": "https://wallstreetcn.com/livenews/3147023",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            5,
+            6,
             7,
-            8
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "巴西总统批鲁比奥：他是罪魁祸首",
@@ -1156,32 +1219,6 @@
           "source": "凤凰网",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
-          "url": "https://www.zhihu.com/question/2069421184177763676",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "从游客视角探秘陶瓷文化",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B8%B8%E5%AE%A2%E8%A7%86%E8%A7%92%E6%8E%A2%E7%A7%98%E9%99%B6%E7%93%B7%E6%96%87%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            6,
-            8,
-            7,
-            22
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -1198,8 +1235,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "今年前 7 月我国货物贸易进出口总值 30.13 万亿元，同比增长 17.3% ，如何看待这一数据？",
@@ -1214,6 +1251,22 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时41分 ~ 07时35分]"
+        },
+        {
+          "title": "从游客视角探秘陶瓷文化",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B8%B8%E5%AE%A2%E8%A7%86%E8%A7%92%E6%8E%A2%E7%A7%98%E9%99%B6%E7%93%B7%E6%96%87%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            6,
+            8,
+            7,
+            22,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "情侣平潭翻墙拍日出坠崖",
@@ -1254,8 +1307,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "波兰运动员黑宁波是贫民窟",
@@ -1266,24 +1319,24 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "威少新赛季将何去何从",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A8%81%E5%B0%91%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%B0%86%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
-          "source": "bilibili 热搜",
+          "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
+          "url": "https://www.zhihu.com/question/664667368",
+          "source": "知乎",
           "ranks": [
-            12,
+            16,
+            15,
+            9,
             7,
-            8,
-            22,
-            26,
-            9
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "电影《功夫女足》映期延长至 9 月 10 日，目前票房破 22 亿，你认为最终票房有望冲击多少？",
@@ -1300,19 +1353,6 @@
           "time_info": "[00时41分 ~ 05时36分]"
         },
         {
-          "title": "河南刑案嫌犯被抓 逃窜时伤害多人",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%88%91%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%93+%E9%80%83%E7%AA%9C%E6%97%B6%E4%BC%A4%E5%AE%B3%E5%A4%9A%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "我只是来地球散步的",
           "url": "https://www.douyin.com/hot/2600939",
           "source": "抖音",
@@ -1321,8 +1361,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
+          "url": "https://www.zhihu.com/question/2069421184177763676",
+          "source": "知乎",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "提前预习秋天穿搭",
@@ -1345,8 +1397,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "日媒曝防卫省预算创新高，将采购部署大量无人机",
@@ -1356,39 +1408,54 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "警惕食品中的含糖陷阱",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%83%95%E9%A3%9F%E5%93%81%E4%B8%AD%E7%9A%84%E5%90%AB%E7%B3%96%E9%99%B7%E9%98%B1",
+          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
+          "url": "https://wallstreetcn.com/articles/3778992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时35分 ~ 10时06分]"
+        },
+        {
+          "title": "威少新赛季将何去何从",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A8%81%E5%B0%91%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%B0%86%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
           "source": "bilibili 热搜",
           "ranks": [
+            12,
             7,
             8,
-            29,
-            28,
-            23,
-            10
+            22,
+            26,
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
-          "url": "https://www.zhihu.com/question/664667368",
-          "source": "知乎",
+          "title": "河南刑案嫌犯被抓 逃窜时伤害多人",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%88%91%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8A%93+%E9%80%83%E7%AA%9C%E6%97%B6%E4%BC%A4%E5%AE%B3%E5%A4%9A%E4%BA%BA",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            15,
             9,
-            7,
-            17
+            15,
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "孙子考取上海交大 爷爷高情商答谢",
@@ -1398,11 +1465,12 @@
             8,
             16,
             9,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "情侣在平潭拍日出时坠崖致一死一伤",
@@ -1412,11 +1480,12 @@
             12,
             8,
             9,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "接线员失职被炒,控诉遭恶意辞退",
@@ -1427,8 +1496,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "火把节的抹黑祝福",
@@ -1439,8 +1508,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "沈腾演技",
@@ -1497,8 +1566,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "AL战胜LGD LPL第三赛段",
@@ -1639,6 +1708,21 @@
           "time_info": "[01时36分 ~ 07时35分]"
         },
         {
+          "title": "大学刚毕业的我们belike",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E5%88%9A%E6%AF%95%E4%B8%9A%E7%9A%84%E6%88%91%E4%BB%ACbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            30,
+            28,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时45分 ~ 10时06分]"
+        },
+        {
           "title": "解读悬疑新剧开庭第二案",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%82%AC%E7%96%91%E6%96%B0%E5%89%A7%E5%BC%80%E5%BA%AD%E7%AC%AC%E4%BA%8C%E6%A1%88",
           "source": "bilibili 热搜",
@@ -1649,11 +1733,12 @@
             29,
             26,
             23,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "20岁中国男子在泰国身亡",
@@ -1666,11 +1751,77 @@
             10,
             18,
             24,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33745289",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
+          "url": "https://www.cls.cn/detail/2448863",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "贝莱德大佬解读非农转负 放言“如今加息已经没有太大意义”",
+          "url": "https://www.cls.cn/detail/2448946",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "Oner替补,T1上调二队打野",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356963&amp;topic_name=Oner%E6%9B%BF%E8%A1%A5%2CT1%E4%B8%8A%E8%B0%83%E4%BA%8C%E9%98%9F%E6%89%93%E9%87%8E",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "台军“汉光演习”漏洞百出",
+          "url": "https://www.douyin.com/hot/2602059",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19,
+            12,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "王菲看了窦靖童歌手总决赛",
@@ -1697,60 +1848,11 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "伊朗媒体发布伊朗最高领袖视频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33745289",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
-          "url": "https://www.cls.cn/detail/2448863",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "贝莱德大佬解读非农转负 放言“如今加息已经没有太大意义”",
-          "url": "https://www.cls.cn/detail/2448946",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "首批家用太阳能设备交付！古巴：感谢中方支持",
           "url": "https://news.ifeng.com/c/8vQDGsdQvou",
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "Oner替补,T1上调二队打野",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356963&amp;topic_name=Oner%E6%9B%BF%E8%A1%A5%2CT1%E4%B8%8A%E8%B0%83%E4%BA%8C%E9%98%9F%E6%89%93%E9%87%8E",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -1791,21 +1893,6 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "台军“汉光演习”漏洞百出",
-          "url": "https://www.douyin.com/hot/2602059",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19,
-            12,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "永和豆浆创始人林炳生逝世",
           "url": "https://www.toutiao.com/trending/7671601007847489555/",
           "source": "今日头条",
@@ -1834,6 +1921,108 @@
           "time_info": "[00时41分 ~ 05时36分]"
         },
         {
+          "title": "十八而志，未来欢迎你",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33743039",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "台风、暴雨、强对流等五预警齐发！沿海部分地区将有特大暴雨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33745275",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "BLG战胜EDG LPL第三赛段",
+          "url": "https://search.bilibili.com/all?keyword=BLG%20EDG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "亨特·拜登：我爸赦免我，对他和美国都不好",
+          "url": "https://news.ifeng.com/c/8vQPYa1kX6Z",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "日本医院把患者大脑当肿瘤切了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356955&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8C%BB%E9%99%A2%E6%8A%8A%E6%82%A3%E8%80%85%E5%A4%A7%E8%84%91%E5%BD%93%E8%82%BF%E7%98%A4%E5%88%87%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "谢霆锋沈阳演唱会",
+          "url": "https://www.douyin.com/hot/2602255",
+          "source": "抖音",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "A股多家上市公司收到美政府退税",
+          "url": "https://www.douyin.com/hot/2602233",
+          "source": "抖音",
+          "ranks": [
+            12,
+            16,
+            17,
+            11,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "知名博主峰哥实名举报编剧汪海林偷税漏税，汪海林回应系网红为流量炒作话题，此事真实性如何？两人有何恩怨？",
+          "url": "https://www.zhihu.com/question/2069443167678632232",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
           "title": "网络谣言的3种典型“伪装套路”",
           "url": "https://www.toutiao.com/trending/7670853259876515866/",
           "source": "今日头条",
@@ -1856,105 +2045,6 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "十八而志，未来欢迎你",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33743039",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "台风、暴雨、强对流等五预警齐发！沿海部分地区将有特大暴雨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33745275",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "BLG战胜EDG LPL第三赛段",
-          "url": "https://search.bilibili.com/all?keyword=BLG%20EDG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "亨特·拜登：我爸赦免我，对他和美国都不好",
-          "url": "https://news.ifeng.com/c/8vQPYa1kX6Z",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "日本医院把患者大脑当肿瘤切了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356955&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8C%BB%E9%99%A2%E6%8A%8A%E6%82%A3%E8%80%85%E5%A4%A7%E8%84%91%E5%BD%93%E8%82%BF%E7%98%A4%E5%88%87%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "谢霆锋沈阳演唱会",
-          "url": "https://www.douyin.com/hot/2602255",
-          "source": "抖音",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "A股多家上市公司收到美政府退税",
-          "url": "https://www.douyin.com/hot/2602233",
-          "source": "抖音",
-          "ranks": [
-            12,
-            16,
-            17,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "知名博主峰哥实名举报编剧汪海林偷税漏税，汪海林回应系网红为流量炒作话题，此事真实性如何？两人有何恩怨？",
-          "url": "https://www.zhihu.com/question/2069443167678632232",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "太原一乘客质疑出租车绕路准备投诉，被司机持铁棍打伤缝 13 针，如何看待此事？",
           "url": "https://www.zhihu.com/question/2068620061821212203",
           "source": "知乎",
@@ -1967,6 +2057,69 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时41分 ~ 07时35分]"
+        },
+        {
+          "title": "韩国足协回应性贿赂裁判丑闻：目前绝不会存在此类不当行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33743319",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
+          "url": "https://www.cls.cn/detail/2449090",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "泰国校园枪击案幸存老师：他想杀我时刚好子弹用完",
+          "url": "https://news.ifeng.com/c/8vQa4uE8Jjl",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "装备硬核!钓鱼佬自备空调",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356957&amp;topic_name=%E8%A3%85%E5%A4%87%E7%A1%AC%E6%A0%B8%21%E9%92%93%E9%B1%BC%E4%BD%AC%E8%87%AA%E5%A4%87%E7%A9%BA%E8%B0%83",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "苏超无锡1:1盐城",
+          "url": "https://www.douyin.com/hot/2601975",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "王菲生日戴了老王帽",
@@ -1997,74 +2150,12 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "韩国足协回应性贿赂裁判丑闻：目前绝不会存在此类不当行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33743319",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "北京：非京籍家庭购房社保个税缴纳年限下调为一年",
           "url": "https://www.cls.cn/detail/2448841",
           "source": "财联社热门",
           "ranks": [
             12,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
-          "url": "https://www.cls.cn/detail/2449090",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "泰国校园枪击案幸存老师：他想杀我时刚好子弹用完",
-          "url": "https://news.ifeng.com/c/8vQa4uE8Jjl",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "装备硬核!钓鱼佬自备空调",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356957&amp;topic_name=%E8%A3%85%E5%A4%87%E7%A1%AC%E6%A0%B8%21%E9%92%93%E9%B1%BC%E4%BD%AC%E8%87%AA%E5%A4%87%E7%A9%BA%E8%B0%83",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "苏超无锡1:1盐城",
-          "url": "https://www.douyin.com/hot/2601975",
-          "source": "抖音",
-          "ranks": [
-            16,
-            15,
-            18,
-            12
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -2102,6 +2193,23 @@
           "time_info": "[00时41分 ~ 06时36分]"
         },
         {
+          "title": "奥德赛终极功课",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E5%BE%B7%E8%B5%9B%E7%BB%88%E6%9E%81%E5%8A%9F%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            24,
+            20,
+            21,
+            18,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时36分 ~ 10时06分]"
+        },
+        {
           "title": "向下对齐是亲密关系最大的诅咒",
           "url": "https://s.weibo.com/weibo?q=%E5%90%91%E4%B8%8B%E5%AF%B9%E9%BD%90%E6%98%AF%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E6%9C%80%E5%A4%A7%E7%9A%84%E8%AF%85%E5%92%92&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -2133,22 +2241,6 @@
           "time_info": "[02时45分 ~ 07时35分]"
         },
         {
-          "title": "奥德赛终极功课",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E5%BE%B7%E8%B5%9B%E7%BB%88%E6%9E%81%E5%8A%9F%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            24,
-            20,
-            21,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时36分 ~ 07时35分]"
-        },
-        {
           "title": "89岁钟南山高能量日常：每周健身3次",
           "url": "https://www.baidu.com/s?wd=89%E5%B2%81%E9%92%9F%E5%8D%97%E5%B1%B1%E9%AB%98%E8%83%BD%E9%87%8F%E6%97%A5%E5%B8%B8%EF%BC%9A%E6%AF%8F%E5%91%A8%E5%81%A5%E8%BA%AB3%E6%AC%A1",
           "source": "百度热搜",
@@ -2158,11 +2250,12 @@
             19,
             21,
             26,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "车企回归实体按键",
@@ -2178,8 +2271,36 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "欢迎来龙餐馆值得看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            20,
+            17,
+            21,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "六连胜被断,Bin超话开香槟",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356958&amp;topic_name=%E5%85%AD%E8%BF%9E%E8%83%9C%E8%A2%AB%E6%96%AD%2CBin%E8%B6%85%E8%AF%9D%E5%BC%80%E9%A6%99%E6%A7%9F",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "小明修仙传",
@@ -2198,31 +2319,22 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "欢迎来龙餐馆值得看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
+          "title": "动画真的审美降级了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E7%9C%9F%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            22,
+            28,
             20,
-            17,
             21,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "六连胜被断,Bin超话开香槟",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356958&amp;topic_name=%E5%85%AD%E8%BF%9E%E8%83%9C%E8%A2%AB%E6%96%AD%2CBin%E8%B6%85%E8%AF%9D%E5%BC%80%E9%A6%99%E6%A7%9F",
-          "source": "贴吧",
-          "ranks": [
+            17,
+            16,
             13,
-            14
+            25,
+            29
           ],
           "is_new": false,
           "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "time_info": "[01时36分 ~ 10时06分]"
         },
         {
           "title": "“地球将失重7秒”不实",
@@ -2234,23 +2346,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "动画真的审美降级了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%94%BB%E7%9C%9F%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            20,
-            21,
-            17,
-            16,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 07时35分]"
         },
         {
           "title": "西村力演唱会的发言",
@@ -2275,11 +2370,12 @@
           "ranks": [
             18,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时45分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[02时45分 ~ 10时06分]"
         },
         {
           "title": "欧洲难民成了谁的筹码",
@@ -2295,8 +2391,31 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "运动员穿三角裤比赛被骂擦边",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356956&amp;topic_name=%E8%BF%90%E5%8A%A8%E5%91%98%E7%A9%BF%E4%B8%89%E8%A7%92%E8%A3%A4%E6%AF%94%E8%B5%9B%E8%A2%AB%E9%AA%82%E6%93%A6%E8%BE%B9",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "河南重大刑案嫌犯夏某钢落网",
+          "url": "https://www.douyin.com/hot/2602348",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "万妮达花田错戏腔绝了",
@@ -2316,29 +2435,6 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "运动员穿三角裤比赛被骂擦边",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356956&amp;topic_name=%E8%BF%90%E5%8A%A8%E5%91%98%E7%A9%BF%E4%B8%89%E8%A7%92%E8%A3%A4%E6%AF%94%E8%B5%9B%E8%A2%AB%E9%AA%82%E6%93%A6%E8%BE%B9",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "河南重大刑案嫌犯夏某钢落网",
-          "url": "https://www.douyin.com/hot/2602348",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "韩立一语道破慕兰奸计",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
           "source": "bilibili 热搜",
@@ -2348,11 +2444,12 @@
             18,
             16,
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "女员工0元购狂薅3千台电器",
@@ -2363,8 +2460,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "全民健身日｜2万条线上问诊记录里，人们在主动关注哪些健康问题",
@@ -2372,11 +2469,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "迪丽热巴听不懂粤语努力憋笑",
@@ -2425,6 +2523,48 @@
           "time_info": "[02时45分 ~ 07时35分]"
         },
         {
+          "title": "Lex锐评歌手决赛",
+          "url": "https://search.bilibili.com/all?keyword=Lex%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            15,
+            16,
+            25,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "解说内涵Shy哥恐遭官方重拳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356947&amp;topic_name=%E8%A7%A3%E8%AF%B4%E5%86%85%E6%B6%B5Shy%E5%93%A5%E6%81%90%E9%81%AD%E5%AE%98%E6%96%B9%E9%87%8D%E6%8B%B3",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
           "title": "商场现钱学森巨幅海报 负责人回应",
           "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%9C%BA%E7%8E%B0%E9%92%B1%E5%AD%A6%E6%A3%AE%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5+%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -2435,31 +2575,6 @@
             24,
             16,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "解说内涵Shy哥恐遭官方重拳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356947&amp;topic_name=%E8%A7%A3%E8%AF%B4%E5%86%85%E6%B6%B5Shy%E5%93%A5%E6%81%90%E9%81%AD%E5%AE%98%E6%96%B9%E9%87%8D%E6%8B%B3",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -2498,27 +2613,17 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "台风前上海天空出现绝美晚霞",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%89%8D%E4%B8%8A%E6%B5%B7%E5%A4%A9%E7%A9%BA%E5%87%BA%E7%8E%B0%E7%BB%9D%E7%BE%8E%E6%99%9A%E9%9C%9E",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "宋致远被查，东方电气集团党组：坚决拥护党中央决定",
           "url": "https://m.thepaper.cn/newsDetail_forward_33744590",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "BLG惨败TES,Bin哥回归预热?",
@@ -2527,6 +2632,17 @@
           "ranks": [
             17,
             18
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "台风前上海天空出现绝美晚霞",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%89%8D%E4%B8%8A%E6%B5%B7%E5%A4%A9%E7%A9%BA%E5%87%BA%E7%8E%B0%E7%BB%9D%E7%BE%8E%E6%99%9A%E9%9C%9E",
+          "source": "百度热搜",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -2570,8 +2686,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "蜘蛛侠崭新之日的梗各火各的",
@@ -2616,8 +2732,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "王源 巡演看一场少一场",
@@ -2635,17 +2751,6 @@
           "time_info": "[00时41分 ~ 05时36分]"
         },
         {
-          "title": "《龙餐馆》 战争版《药神》",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B+%E6%88%98%E4%BA%89%E7%89%88%E3%80%8A%E8%8D%AF%E7%A5%9E%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "男子撤销捐献仍被摘器官",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356944&amp;topic_name=%E7%94%B7%E5%AD%90%E6%92%A4%E9%94%80%E6%8D%90%E7%8C%AE%E4%BB%8D%E8%A2%AB%E6%91%98%E5%99%A8%E5%AE%98",
           "source": "贴吧",
@@ -2654,8 +2759,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "叫号取餐选秀大会",
@@ -2665,7 +2770,19 @@
             22,
             23,
             20,
-            21
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "《龙餐馆》 战争版《药神》",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B+%E6%88%98%E4%BA%89%E7%89%88%E3%80%8A%E8%8D%AF%E7%A5%9E%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -2687,17 +2804,6 @@
           "time_info": "[01时36分 ~ 07时35分]"
         },
         {
-          "title": "金饰克价一夜涨回1300元",
-          "url": "https://www.toutiao.com/trending/7670685913919471626/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "歌手收官,胡彦斌夺歌王",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356953&amp;topic_name=%E6%AD%8C%E6%89%8B%E6%94%B6%E5%AE%98%2C%E8%83%A1%E5%BD%A6%E6%96%8C%E5%A4%BA%E6%AD%8C%E7%8E%8B",
           "source": "贴吧",
@@ -2706,8 +2812,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "小夜灯 性早熟",
@@ -2715,7 +2821,19 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "金饰克价一夜涨回1300元",
+          "url": "https://www.toutiao.com/trending/7670685913919471626/",
+          "source": "今日头条",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -2728,11 +2846,42 @@
           "ranks": [
             22,
             24,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[01时36分 ~ 10时06分]"
+        },
+        {
+          "title": "大反转!桃酥吃出牙冠系造谣",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356863&amp;topic_name=%E5%A4%A7%E5%8F%8D%E8%BD%AC%21%E6%A1%83%E9%85%A5%E5%90%83%E5%87%BA%E7%89%99%E5%86%A0%E7%B3%BB%E9%80%A0%E8%B0%A3",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "成都汽水音乐节",
+          "url": "https://www.douyin.com/hot/2602017",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30,
+            25,
+            22,
+            26,
+            29,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "云南发现眼镜王蛇一家38口",
@@ -2747,18 +2896,6 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "大反转!桃酥吃出牙冠系造谣",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356863&amp;topic_name=%E5%A4%A7%E5%8F%8D%E8%BD%AC%21%E6%A1%83%E9%85%A5%E5%90%83%E5%87%BA%E7%89%99%E5%86%A0%E7%B3%BB%E9%80%A0%E8%B0%A3",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "常吃4种食物不易得胃癌",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%90%834%E7%A7%8D%E9%A3%9F%E7%89%A9%E4%B8%8D%E6%98%93%E5%BE%97%E8%83%83%E7%99%8C%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -2766,23 +2903,6 @@
             24,
             23,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "成都汽水音乐节",
-          "url": "https://www.douyin.com/hot/2602017",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30,
-            25,
-            22,
-            26,
-            29,
-            23
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -2824,8 +2944,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "国乒女单三将晋级四强",
@@ -2851,8 +2971,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "韩足协性贿赂20名外籍裁判",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356933&amp;topic_name=%E9%9F%A9%E8%B6%B3%E5%8D%8F%E6%80%A7%E8%B4%BF%E8%B5%8220%E5%90%8D%E5%A4%96%E7%B1%8D%E8%A3%81%E5%88%A4",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "宇树王兴兴被问了360多个问题",
@@ -2879,18 +3011,6 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "韩足协性贿赂20名外籍裁判",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356933&amp;topic_name=%E9%9F%A9%E8%B6%B3%E5%8D%8F%E6%80%A7%E8%B4%BF%E8%B5%8220%E5%90%8D%E5%A4%96%E7%B1%8D%E8%A3%81%E5%88%A4",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
           "title": "猫娘抽烟番被日本家长投诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356861&amp;topic_name=%E7%8C%AB%E5%A8%98%E6%8A%BD%E7%83%9F%E7%95%AA%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
           "source": "贴吧",
@@ -2899,8 +3019,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "外设想赚钱,键盘鼠标排队涨价",
@@ -2911,8 +3031,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "Coser兔娘互动太顶,网友酸了",
@@ -2923,8 +3043,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "王者无尽之局皮肤实战测评",
@@ -2947,21 +3067,22 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "阿曼：霍尔木兹海峡通航安排谈判在积极氛围中推进",
-          "url": "https://wallstreetcn.com/livenews/3147023",
+          "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
+          "url": "https://wallstreetcn.com/livenews/3147022",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
             6,
-            7
+            7,
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "美国为何要拯救日元",
@@ -2976,6 +3097,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时35分 ~ 07时35分]"
+        },
+        {
+          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
+          "url": "https://wallstreetcn.com/livenews/3147021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "RAY评歌手2026总决赛",
@@ -2993,6 +3128,20 @@
           "time_info": "[01时36分 ~ 06时36分]"
         },
         {
+          "title": "一船只在阿曼以东海域遭袭起火",
+          "url": "https://wallstreetcn.com/livenews/3147020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
           "title": "中国卫星拍到猎鹰9号火箭残骸撞月",
           "url": "https://www.toutiao.com/trending/7671595112442367551/",
           "source": "今日头条",
@@ -3008,16 +3157,90 @@
           "time_info": "[02时45分 ~ 06时36分]"
         },
         {
-          "title": "万斯称美伊冲突仍处于“博弈中段”",
-          "url": "https://wallstreetcn.com/livenews/3147029",
+          "title": "土耳其在袭击激增后推迟黑海船只通行",
+          "url": "https://wallstreetcn.com/livenews/3147019",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            2
+            9,
+            10,
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时37分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "我国多家上市公司宣布收到美国关税退税",
+          "url": "https://wallstreetcn.com/livenews/3147014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "美国参议院安排下周二美东时间14:00表决Clarity Act。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3147013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            12,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "怪兽中出了一个奥特曼的卧底",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%AA%E5%85%BD%E4%B8%AD%E5%87%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9A%84%E5%8D%A7%E5%BA%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            23,
+            21,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
+          "url": "https://wallstreetcn.com/livenews/3147012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            13,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "李荣浩大连演唱会",
+          "url": "https://www.douyin.com/hot/2602256",
+          "source": "抖音",
+          "ranks": [
+            17,
+            12,
+            15,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "HLE 2-1 T1赛后数据",
@@ -3034,19 +3257,127 @@
           "time_info": "[01时36分 ~ 05时36分]"
         },
         {
-          "title": "Lex锐评歌手决赛",
-          "url": "https://search.bilibili.com/all?keyword=Lex%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "飞天茅台自营门店价格再度上调，终端售价已涨至1760元/瓶",
+          "url": "https://wallstreetcn.com/livenews/3147011",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
+            13,
+            14,
             15,
-            16,
-            25,
-            20
+            24
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "WBG战胜LNG LPL第三赛段",
+          "url": "https://search.bilibili.com/all?keyword=WBG%20LNG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
+          "url": "https://wallstreetcn.com/livenews/3147010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            15,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "柴西洛杉矶自驾体验落日飞车",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9F%B4%E8%A5%BF%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%87%AA%E9%A9%BE%E4%BD%93%E9%AA%8C%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            21,
+            27,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "紧邻天然气管道设施！一无人机自罗马尼亚方向进入保加利亚后爆炸",
+          "url": "https://wallstreetcn.com/livenews/3147009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            16,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "刺激之夜抖音直播",
+          "url": "https://www.douyin.com/hot/2602052",
+          "source": "抖音",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时35分 ~ 10时06分]"
+        },
+        {
+          "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
+          "url": "https://wallstreetcn.com/livenews/3147008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            17,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "浙江省水利厅将水旱灾害防御（防台）应急响应提升至Ⅰ级",
+          "url": "https://wallstreetcn.com/livenews/3147007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            18,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            19,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "波兰总统：不容忍波兰出现班德拉旗帜",
@@ -3060,6 +3391,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时36分 ~ 06时36分]"
+        },
+        {
+          "title": "楼继伟理事长出席资产盘活课题研讨会",
+          "url": "https://wallstreetcn.com/livenews/3147005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            20,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "新疆优化调整景区内自驾服务费",
@@ -3090,84 +3435,57 @@
           "time_info": "[01时36分 ~ 06时36分]"
         },
         {
-          "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
-          "url": "https://wallstreetcn.com/livenews/3147022",
-          "source": "华尔街见闻-快讯",
+          "title": "田曦薇COS和平精英甜包",
+          "url": "https://www.douyin.com/hot/2602607",
+          "source": "抖音",
           "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
-          "url": "https://wallstreetcn.com/livenews/3147021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
-          "url": "https://wallstreetcn.com/articles/3778992",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时35分 ~ 07时35分]"
-        },
-        {
-          "title": "大学刚毕业的我们belike",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E5%88%9A%E6%AF%95%E4%B8%9A%E7%9A%84%E6%88%91%E4%BB%ACbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            30,
+            23,
             28,
-            6
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时45分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "一船只在阿曼以东海域遭袭起火",
-          "url": "https://wallstreetcn.com/livenews/3147020",
-          "source": "华尔街见闻-快讯",
+          "title": "苏超徐州2:0常州",
+          "url": "https://www.douyin.com/hot/2601957",
+          "source": "抖音",
           "ranks": [
-            8,
-            9,
-            10
+            29,
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
-          "title": "土耳其在袭击激增后推迟黑海船只通行",
-          "url": "https://wallstreetcn.com/livenews/3147019",
+          "title": "万斯称美伊冲突仍处于“博弈中段”",
+          "url": "https://wallstreetcn.com/livenews/3147029",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            10,
+            1,
+            2,
             11
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时37分 ~ 10时06分]"
+        },
+        {
+          "title": "身体出现这几个信号可能是肝在求救",
+          "url": "https://www.toutiao.com/trending/7671344614855163950/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            8,
+            13,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "time_info": "[04时36分 ~ 10时06分]"
         },
         {
           "title": "娜扎称眼睛恢复情况不太妙",
@@ -3178,32 +3496,6 @@
             9,
             26,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "我国多家上市公司宣布收到美国关税退税",
-          "url": "https://wallstreetcn.com/livenews/3147014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "美国参议院安排下周二美东时间14:00表决Clarity Act。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3147013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -3224,47 +3516,6 @@
           "time_info": "[00时41分 ~ 04时37分]"
         },
         {
-          "title": "怪兽中出了一个奥特曼的卧底",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%AA%E5%85%BD%E4%B8%AD%E5%87%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9A%84%E5%8D%A7%E5%BA%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            23,
-            21,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时36分]"
-        },
-        {
-          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
-          "url": "https://wallstreetcn.com/livenews/3147012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "李荣浩大连演唱会",
-          "url": "https://www.douyin.com/hot/2602256",
-          "source": "抖音",
-          "ranks": [
-            17,
-            12,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 04时37分]"
-        },
-        {
           "title": "安徽阜阳市委书记：坚决打赢防台风硬仗",
           "url": "https://www.toutiao.com/trending/7671632959987781163/",
           "source": "今日头条",
@@ -3277,19 +3528,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 06时36分]"
-        },
-        {
-          "title": "飞天茅台自营门店价格再度上调，终端售价已涨至1760元/瓶",
-          "url": "https://wallstreetcn.com/livenews/3147011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
         },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
@@ -3318,29 +3556,17 @@
           "time_info": "[03时35分 ~ 07时35分]"
         },
         {
-          "title": "WBG战胜LNG LPL第三赛段",
-          "url": "https://search.bilibili.com/all?keyword=WBG%20LNG",
-          "source": "bilibili 热搜",
+          "title": "8月9日运营开始起，上海轨交全网络地面高架区段限速运行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33745913",
+          "source": "澎湃新闻",
           "ranks": [
+            20,
             14,
-            27
+            15
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时41分 ~ 04时37分]"
-        },
-        {
-          "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
-          "url": "https://wallstreetcn.com/livenews/3147010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "time_info": "[04时36分 ~ 10时06分]"
         },
         {
           "title": "央行购金突然加速释放什么信号",
@@ -3371,96 +3597,30 @@
           "time_info": "[01时36分 ~ 07时35分]"
         },
         {
-          "title": "柴西洛杉矶自驾体验落日飞车",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9F%B4%E8%A5%BF%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%87%AA%E9%A9%BE%E4%BD%93%E9%AA%8C%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6",
+          "title": "三角洲宝藏月最全点位",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%AE%9D%E8%97%8F%E6%9C%88%E6%9C%80%E5%85%A8%E7%82%B9%E4%BD%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            24,
-            21,
+            26,
+            30,
             27,
-            15,
-            18
+            29,
+            16
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "time_info": "[02时45分 ~ 10时06分]"
         },
         {
-          "title": "紧邻天然气管道设施！一无人机自罗马尼亚方向进入保加利亚后爆炸",
-          "url": "https://wallstreetcn.com/livenews/3147009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "刺激之夜抖音直播",
-          "url": "https://www.douyin.com/hot/2602052",
+          "title": "以媒：穆杰塔巴被紧急送医情况危急",
+          "url": "https://www.douyin.com/hot/2601769",
           "source": "抖音",
           "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时35分 ~ 07时35分]"
-        },
-        {
-          "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
-          "url": "https://wallstreetcn.com/livenews/3147008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "浙江省水利厅将水旱灾害防御（防台）应急响应提升至Ⅰ级",
-          "url": "https://wallstreetcn.com/livenews/3147007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            18,
             19
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "楼继伟理事长出席资产盘活课题研讨会",
-          "url": "https://wallstreetcn.com/livenews/3147005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "time_info": "[04时36分 ~ 10时06分]"
         },
         {
           "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
@@ -3529,19 +3689,6 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "田曦薇COS和平精英甜包",
-          "url": "https://www.douyin.com/hot/2602607",
-          "source": "抖音",
-          "ranks": [
-            23,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 04时37分]"
-        },
-        {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
           "url": "https://wallstreetcn.com/livenews/3146999",
           "source": "华尔街见闻-快讯",
@@ -3568,6 +3715,20 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
+          "title": "下辈子不一定还能遇见你手势舞",
+          "url": "https://www.douyin.com/hot/2602415",
+          "source": "抖音",
+          "ranks": [
+            28,
+            26,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时36分 ~ 10时06分]"
+        },
+        {
           "title": "0糖饮料不是完全不含糖",
           "url": "https://www.baidu.com/s?wd=0%E7%B3%96%E9%A5%AE%E6%96%99%E4%B8%8D%E6%98%AF%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%90%AB%E7%B3%96",
           "source": "百度热搜",
@@ -3588,18 +3749,6 @@
             26,
             27,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "苏超徐州2:0常州",
-          "url": "https://www.douyin.com/hot/2601957",
-          "source": "抖音",
-          "ranks": [
-            29,
-            26
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -3681,30 +3830,6 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
-          "title": "美媒：美“爱国者”导弹库存不足1700枚",
-          "url": "https://wallstreetcn.com/livenews/3147031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时35分]"
-        },
-        {
-          "title": "身体出现这几个信号可能是肝在求救",
-          "url": "https://www.toutiao.com/trending/7671344614855163950/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时36分 ~ 07时35分]"
-        },
-        {
           "title": "如何评价凡人修仙传 186 集，是否达到预期？",
           "url": "https://www.zhihu.com/question/2064502213205141253",
           "source": "知乎",
@@ -3716,18 +3841,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时45分 ~ 05时36分]"
-        },
-        {
-          "title": "8月9日运营开始起，上海轨交全网络地面高架区段限速运行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33745913",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时36分 ~ 07时35分]"
         },
         {
           "title": "孙子考取上海交大 爷爷高情商答谢",
@@ -3744,6 +3857,20 @@
           "time_info": "[00时41分 ~ 06时36分]"
         },
         {
+          "title": "弟弟一句“不丢脸” 听障姐姐泪崩",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%80%E5%8F%A5%E2%80%9C%E4%B8%8D%E4%B8%A2%E8%84%B8%E2%80%9D+%E5%90%AC%E9%9A%9C%E5%A7%90%E5%A7%90%E6%B3%AA%E5%B4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时36分 ~ 10时06分]"
+        },
+        {
           "title": "20岁中国男子在泰国被刺多刀身亡",
           "url": "https://s.weibo.com/weibo?q=%2320%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E8%A2%AB%E5%88%BA%E5%A4%9A%E5%88%80%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -3756,17 +3883,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时45分 ~ 07时35分]"
-        },
-        {
-          "title": "以媒：穆杰塔巴被紧急送医情况危急",
-          "url": "https://www.douyin.com/hot/2601769",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时36分 ~ 07时35分]"
         },
         {
           "title": "男子佯装买手机抢走价值7000元手机",
@@ -3795,20 +3911,6 @@
           "time_info": "[00时41分 ~ 06时36分]"
         },
         {
-          "title": "三角洲宝藏月最全点位",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%AE%9D%E8%97%8F%E6%9C%88%E6%9C%80%E5%85%A8%E7%82%B9%E4%BD%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            30,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时45分 ~ 07时35分]"
-        },
-        {
           "title": "王者荣耀电竞世俱杯总决赛",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%94%B5%E7%AB%9E%E4%B8%96%E4%BF%B1%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -3819,19 +3921,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时36分 ~ 06时36分]"
-        },
-        {
-          "title": "下辈子不一定还能遇见你手势舞",
-          "url": "https://www.douyin.com/hot/2602415",
-          "source": "抖音",
-          "ranks": [
-            28,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时36分 ~ 07时35分]"
         },
         {
           "title": "巴勒斯坦消息人士称，以色列军队对加沙地带北部进行了炮击。",
@@ -3890,6 +3979,28 @@
           "time_info": "[00时41分 ~ 03时35分]"
         },
         {
+          "title": "以军士兵把枪口对准中国记者",
+          "url": "https://www.toutiao.com/trending/7670816047708667940/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "白海豚台风眼一闭一睁",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%8F%B0%E9%A3%8E%E7%9C%BC%E4%B8%80%E9%97%AD%E4%B8%80%E7%9D%81",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "AG.AL vs KSG KWC",
           "url": "https://search.bilibili.com/all?keyword=AG.AL%20KSG",
           "source": "bilibili 热搜",
@@ -3899,6 +4010,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "直击台风白海豚",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "沙特能源部：沙特阿美在沙特阿拉伯贾赞的设施火灾已被扑灭。",
+          "url": "https://flash.jin10.com/detail/20260809094505071800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3147043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "网红雅典娜 恶毒闺蜜",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%20%E6%81%B6%E6%AF%92%E9%97%BA%E8%9C%9C&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "台风白海豚靠近杭州",
+          "url": "https://www.douyin.com/hot/2602750",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
+          "url": "https://www.zhihu.com/question/2068817961792623517",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "郭晶晶大女儿边走路边看书",
@@ -3914,18 +4091,32 @@
           "time_info": "[00时41分 ~ 03时35分]"
         },
         {
-          "title": "弟弟一句“不丢脸” 听障姐姐泪崩",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%80%E5%8F%A5%E2%80%9C%E4%B8%8D%E4%B8%A2%E8%84%B8%E2%80%9D+%E5%90%AC%E9%9A%9C%E5%A7%90%E5%A7%90%E6%B3%AA%E5%B4%A9",
-          "source": "百度热搜",
+          "title": "央媒：用Token还是词元事关科技话语权",
+          "url": "https://www.toutiao.com/trending/7671123642835566598/",
+          "source": "今日头条",
           "ranks": [
-            27,
-            22,
-            16,
-            21
+            25,
+            30,
+            18,
+            29
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时36分 ~ 07时35分]"
+          "time_info": "[04时36分 ~ 10时06分]"
+        },
+        {
+          "title": "异环残虹角色短片",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E6%AE%8B%E8%99%B9%E8%A7%92%E8%89%B2%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            24,
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 10时06分]"
         },
         {
           "title": "“六爷”挂一颗出场！我国形成“三位一体”核打击能力",
@@ -3965,6 +4156,83 @@
           "time_info": "[00时41分 ~ 05时36分]"
         },
         {
+          "title": "台风将至有超市叶菜肉3小时售罄",
+          "url": "https://www.toutiao.com/trending/7671797185171951155/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "以军士兵把枪口对准中国记者",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E5%A3%AB%E5%85%B5%E6%8A%8A%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "KSG战胜AG.AL赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=KSG%E6%88%98%E8%83%9CAG.AL%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国家统计局：7月份，PPI同比涨幅有所回落",
+          "url": "https://flash.jin10.com/detail/20260809094144161800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国家统计局：生猪产能综合调控政策效应显现，叠加部分地区高温、强降雨等极端天气频发推高运输成本等因素，猪肉价格由上月环比下降0.8%转为上涨4.1%，影响CPI环比上涨约0.07个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3147042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "上半年国内手机销量TOP30出炉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8FTOP30%E5%87%BA%E7%82%89%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "媒体评郑钦文「她需调整自我认知，要听团队的劝」，对此你怎么看，这篇文章说的对吗？",
+          "url": "https://www.zhihu.com/question/2069125628117214469",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "约旦外交部：两位外交大臣还讨论了一些共同关心的问题，以及加强阿拉伯共同合作的前景和途径，并一致同意在双边及多边组织框架内继续协调和磋商，针对地区和国际问题进行合作。",
           "url": "https://flash.jin10.com/detail/20260809042229806800",
           "source": "金十数据",
@@ -3991,6 +4259,28 @@
           "time_info": "[04时37分 ~ 07时35分]"
         },
         {
+          "title": "国家统计局：7月份，PPI环比下降",
+          "url": "https://flash.jin10.com/detail/20260809094115453800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国家统计局：7月份工业生产者出厂价格同比上涨3.5%",
+          "url": "https://wallstreetcn.com/livenews/3147040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "黄土高原上的绿色长征",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E4%B8%8A%E7%9A%84%E7%BB%BF%E8%89%B2%E9%95%BF%E5%BE%81%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -4000,6 +4290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "台风「白海豚」逼近，9 岁男孩在浙江温岭海边被浪卷走，带来哪些警示？目前救援难点有哪些？",
+          "url": "https://www.zhihu.com/question/2069556360698488227",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
@@ -4038,15 +4339,93 @@
           "time_info": "[00时41分 ~ 02时46分]"
         },
         {
+          "title": "美媒：美“爱国者”导弹库存不足1700枚",
+          "url": "https://wallstreetcn.com/livenews/3147031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 10时06分]"
+        },
+        {
+          "title": "原北京军区副司令员李永金逝世",
+          "url": "https://www.toutiao.com/trending/7671641140575715379/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "上交绝杀清华 姚明笑出表情包",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E4%BA%A4%E7%BB%9D%E6%9D%80%E6%B8%85%E5%8D%8E+%E5%A7%9A%E6%98%8E%E7%AC%91%E5%87%BA%E8%A1%A8%E6%83%85%E5%8C%85",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "堂主年马计划一周年",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A0%82%E4%B8%BB%E5%B9%B4%E9%A9%AC%E8%AE%A1%E5%88%92%E4%B8%80%E5%91%A8%E5%B9%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国家统计局：7月份，CPI同比温和上涨，黄金饰品上涨24.6%",
+          "url": "https://flash.jin10.com/detail/20260809093957019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国家统计局：7月份居民消费价格同比上涨0.5%",
+          "url": "https://wallstreetcn.com/livenews/3147039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "温岭全力搜救被卷走9岁男孩",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B2%AD%E5%85%A8%E5%8A%9B%E6%90%9C%E6%95%91%E8%A2%AB%E5%8D%B7%E8%B5%B09%E5%B2%81%E7%94%B7%E5%AD%A9%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "上海台风",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%8F%B0%E9%A3%8E&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "叙利亚内政部：我们挫败了一起从塔尔图斯省向黎巴嫩境内走私武器弹药的行动。",
@@ -4097,6 +4476,83 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时36分 ~ 07时35分]"
+        },
+        {
+          "title": "“白海豚”最新位置公布",
+          "url": "https://www.toutiao.com/trending/7671823265186352690/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "大爷听AI洒农药 150亩苗一夜枯萎",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国家统计局：7月份，CPI环比降幅收窄",
+          "url": "https://flash.jin10.com/detail/20260809093821444800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "日本大饭核电站3号机组因发电机异常停止运行",
+          "url": "https://wallstreetcn.com/livenews/3147038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "杭州地铁",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%9C%B0%E9%93%81&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "台风白海豚 10 级风圈触及浙江台州部分地区，中央气象台三预警齐发，你那边天气如何？",
+          "url": "https://www.zhihu.com/question/2068622608979813741",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
@@ -4186,19 +4642,6 @@
           "time_info": "[00时41分 ~ 04时37分]"
         },
         {
-          "title": "央媒：用Token还是词元事关科技话语权",
-          "url": "https://www.toutiao.com/trending/7671123642835566598/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            30,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时36分 ~ 07时35分]"
-        },
-        {
           "title": "蔡依林唱了布拉格广场",
           "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E5%94%B1%E4%BA%86%E5%B8%83%E6%8B%89%E6%A0%BC%E5%B9%BF%E5%9C%BA%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -4238,17 +4681,17 @@
           "time_info": "[00时41分 ~ 06时36分]"
         },
         {
-          "title": "异环残虹角色短片",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E6%AE%8B%E8%99%B9%E8%A7%92%E8%89%B2%E7%9F%AD%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "全民健身日科普来了",
+          "url": "https://www.douyin.com/hot/2602032",
+          "source": "抖音",
           "ranks": [
-            27,
-            24,
-            25
+            25,
+            28,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时46分]"
+          "time_info": "[03时35分 ~ 10时06分]"
         },
         {
           "title": "BLG 2-0 EDG赛后数据",
@@ -4662,19 +5105,6 @@
           "time_info": "[04时36分 ~ 05时36分]"
         },
         {
-          "title": "全民健身日科普来了",
-          "url": "https://www.douyin.com/hot/2602032",
-          "source": "抖音",
-          "ranks": [
-            25,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 07时35分]"
-        },
-        {
           "title": "当年的CF老玩家现在在做什么",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%B9%B4%E7%9A%84CF%E8%80%81%E7%8E%A9%E5%AE%B6%E7%8E%B0%E5%9C%A8%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -4969,6 +5399,30 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
+          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
+          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 10时06分]"
+        },
+        {
+          "title": "孙子考取上海交大 爷爷感谢亲家母",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E5%AD%90%E8%80%83%E5%8F%96%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7+%E7%88%B7%E7%88%B7%E6%84%9F%E8%B0%A2%E4%BA%B2%E5%AE%B6%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 10时06分]"
+        },
+        {
           "title": "美国副总统万斯：美国正在努力建立一条安全通行的航线，让船只能够安全通过霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260808225219786800",
           "source": "金十数据",
@@ -5016,6 +5470,18 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
+          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
+          "url": "https://wallstreetcn.com/articles/3778990",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 10时06分]"
+        },
+        {
           "title": "美国副总统万斯：已经大幅削弱了伊朗的非对称军事能力。",
           "url": "https://flash.jin10.com/detail/20260808224916124800",
           "source": "金十数据",
@@ -5050,6 +5516,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时35分]"
+        },
+        {
+          "title": "你心目中最好的十款单机游戏是什么？",
+          "url": "https://www.zhihu.com/question/479719590",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 10时06分]"
         },
         {
           "title": "也门武装部队发言人：对胡塞武装及其相关“民兵”展开了行动。",
@@ -5147,6 +5625,18 @@
           "time_info": "[06时35分 ~ 06时36分]"
         },
         {
+          "title": "罗子君近期为何再次翻红",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%AD%90%E5%90%9B%E8%BF%91%E6%9C%9F%E4%B8%BA%E4%BD%95%E5%86%8D%E6%AC%A1%E7%BF%BB%E7%BA%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 10时06分]"
+        },
+        {
           "title": "据伊朗媒体：伊朗总统佩泽希齐扬表示，现在达成协议的最佳时机，因为伊朗是“强大而团结的，在战争中被视为胜利者”。",
           "url": "https://flash.jin10.com/detail/20260808224230628800",
           "source": "金十数据",
@@ -5231,6 +5721,18 @@
           "time_info": "[03时35分 ~ 04时37分]"
         },
         {
+          "title": "“玉兔精”李玲玉回应网友模仿",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%8E%89%E5%85%94%E7%B2%BE%E2%80%9D%E6%9D%8E%E7%8E%B2%E7%8E%89%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E6%A8%A1%E4%BB%BF",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 10时06分]"
+        },
+        {
           "title": "美国问题专家：美国新对俄制裁法案或成为“沉默法案”",
           "url": "https://flash.jin10.com/detail/20260809003936166800",
           "source": "金十数据",
@@ -5253,6 +5755,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时35分 ~ 04时37分]"
+        },
+        {
+          "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746518",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 10时06分]"
         },
         {
           "title": "黎巴嫩消息人士：黎巴嫩坚持在重返罗马谈判之前实现全面停火。黎巴嫩希望将本特杰贝尔和基亚姆纳入试验区。",
@@ -5323,6 +5837,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 06时36分]"
+        },
+        {
+          "title": "AI帮你开发以前要花钱的功能",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 10时06分]"
         },
         {
           "title": "《八仙！》中的东华帝君是好人吗？",
@@ -5458,6 +5983,28 @@
           "time_info": "[06时35分 ~ 06时36分]"
         },
         {
+          "title": "白海豚10级风圈",
+          "url": "https://www.toutiao.com/trending/7671841305773002291/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "胡彦斌歌王舞台演唱生死未定",
           "url": "https://search.bilibili.com/all?keyword=%E8%83%A1%E5%BD%A6%E6%96%8C%E6%AD%8C%E7%8E%8B%E8%88%9E%E5%8F%B0%E6%BC%94%E5%94%B1%E7%94%9F%E6%AD%BB%E6%9C%AA%E5%AE%9A",
           "source": "bilibili 热搜",
@@ -5467,6 +6014,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
+          "url": "https://www.cls.cn/detail/2449188",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "美欲用战术核武器对抗中俄，弹药不足核武来凑？",
+          "url": "https://news.ifeng.com/c/8vRTyrZzu9v",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国家统计局：7月份，核心CPI环比上涨0.3%，同比上涨0.9%",
+          "url": "https://flash.jin10.com/detail/20260809093547261800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "河南三支一扶成绩全部作废公平吗",
@@ -5480,26 +6071,268 @@
           "time_info": "00时41分"
         },
         {
+          "title": "成毅 演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%20%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "男子在微信家长群里煽动孤立孩子同学被法院判赔",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744280",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "财神窦占龙定档8月16日",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B4%A2%E7%A5%9E%E7%AA%A6%E5%8D%A0%E9%BE%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "拜登癌症扩散",
+          "url": "https://news.ifeng.com/c/8vRQB6LbGJf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国家统计局：7月份，各类商品及服务价格环比变动情况",
+          "url": "https://flash.jin10.com/detail/20260809093443755800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "俄称打击乌无人机仓库 乌称袭击俄方炼油厂",
+          "url": "https://wallstreetcn.com/livenews/3147034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "iPhone18Pro 涨价",
+          "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E6%B6%A8%E4%BB%B7&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "穿搭没有公式",
+          "url": "https://www.douyin.com/hot/2602751",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "男孩被妈妈强拉拍照比“995”",
+          "url": "https://www.toutiao.com/trending/7671666402750824491/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "2026“未录满”本科专业排行榜出炉",
+          "url": "https://www.baidu.com/s?wd=2026%E2%80%9C%E6%9C%AA%E5%BD%95%E6%BB%A1%E2%80%9D%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "“AI应用龙头”归来！Palantir创2024年以来“最强单周表现”",
           "url": "https://wallstreetcn.com/articles/3778983",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
         {
-          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
-          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
+          "title": "Agentic AI新趋势：亚马逊AWS出现“CPU短缺”",
+          "url": "https://wallstreetcn.com/articles/3778989",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "曼联1-1巴黎",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%941-1%E5%B7%B4%E9%BB%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
+          "url": "https://www.cls.cn/detail/2449170",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "国家统计局：7月份，猪肉价格同比下降13.3%",
+          "url": "https://flash.jin10.com/detail/20260809093355859800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "黎巴嫩方面称以军部队重返黎南部一处“试点区域”",
+          "url": "https://wallstreetcn.com/livenews/3147033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "齐豫独唱时加的小男孩家长态度",
+          "url": "https://s.weibo.com/weibo?q=%E9%BD%90%E8%B1%AB%E7%8B%AC%E5%94%B1%E6%97%B6%E5%8A%A0%E7%9A%84%E5%B0%8F%E7%94%B7%E5%AD%A9%E5%AE%B6%E9%95%BF%E6%80%81%E5%BA%A6&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "小姑娘留偶像哈兰德同款发型",
+          "url": "https://www.toutiao.com/trending/7671813048822906899/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "苏醒喊话《歌手》：我档期很空费用极低",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E9%86%92%E5%96%8A%E8%AF%9D%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%EF%BC%9A%E6%88%91%E6%A1%A3%E6%9C%9F%E5%BE%88%E7%A9%BA%E8%B4%B9%E7%94%A8%E6%9E%81%E4%BD%8E",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "日元只是暂时稳住，中期选举后怎么办？",
+          "url": "https://wallstreetcn.com/articles/3778986",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时06分"
+        },
+        {
+          "title": "中国7月PPI月率 -0.7%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093106576800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "美军中央司令部司令访以 讨论“多战线局势”",
+          "url": "https://wallstreetcn.com/livenews/3147032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "光与夜之恋",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
+          "url": "https://www.zhihu.com/question/2069446019272724909",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "为什么要吃高营养素密度食物",
@@ -5508,20 +6341,75 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
         {
-          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
-          "url": "https://wallstreetcn.com/articles/3778990",
+          "title": "游客西湖边突遭暴雨蹲地列阵",
+          "url": "https://www.toutiao.com/trending/7670831404032347691/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时06分"
+        },
+        {
+          "title": "瑙鲁总统邀请中国大使骑自行车，环岛后还喝了中国产冷饮",
+          "url": "https://news.ifeng.com/c/8vRTHUsdqi0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "2026年7月份居民消费价格同比上涨0.5%",
+          "url": "https://flash.jin10.com/detail/20260809093034813800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "成都三岔湖湖水干了？谣言",
+          "url": "https://www.toutiao.com/trending/7671659353279283219/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "助学贷款有“代办捷径”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A9%E5%AD%A6%E8%B4%B7%E6%AC%BE%E6%9C%89%E2%80%9C%E4%BB%A3%E5%8A%9E%E6%8D%B7%E5%BE%84%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
@@ -5535,6 +6423,39 @@
           "time_info": "00时41分"
         },
         {
+          "title": "中国7月CPI月率 -0.1%，预期0.2%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093023410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "刘亦菲下沉市场路人缘",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%8B%E6%B2%89%E5%B8%82%E5%9C%BA%E8%B7%AF%E4%BA%BA%E7%BC%98&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "WTT横滨冠军赛女单四强国乒占三席",
+          "url": "https://www.toutiao.com/trending/7671188818943180838/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "罗马尼亚国防部称未发现空中目标经该国领空进入保加利亚",
           "url": "https://flash.jin10.com/detail/20260808222309230800",
           "source": "金十数据",
@@ -5544,6 +6465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "中国7月PPI年率 3.5%，预期3.80%，前值4.10%。",
+          "url": "https://flash.jin10.com/detail/20260809093020087800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "柬埔寨一园区围殴中国人致1死3伤",
@@ -5563,20 +6495,53 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
         {
-          "title": "“玉兔精”李玲玉回应网友模仿",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%8E%89%E5%85%94%E7%B2%BE%E2%80%9D%E6%9D%8E%E7%8E%B2%E7%8E%89%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E6%A8%A1%E4%BB%BF",
+          "title": "黄子韬徐艺洋直播互扇巴掌",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E7%9B%B4%E6%92%AD%E4%BA%92%E6%89%87%E5%B7%B4%E6%8E%8C&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "“白海豚”逼近浙闽沿海",
+          "url": "https://www.toutiao.com/trending/7670781849325551626/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "上海大部迎大暴雨",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%A4%A7%E9%83%A8%E8%BF%8E%E5%A4%A7%E6%9A%B4%E9%9B%A8",
           "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时06分"
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "利比亚瓦哈石油：扎库特-西德拉管道发生泄漏，维修后已恢复运营。",
@@ -5588,6 +6553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "中国7月CPI年率 0.5%，预期0.80%，前值1.00%。",
+          "url": "https://flash.jin10.com/detail/20260809093020051800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "成毅扔伞和粉丝一起淋雨",
@@ -5607,20 +6583,64 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
         {
-          "title": "孙子考取上海交大 爷爷感谢亲家母",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E5%AD%90%E8%80%83%E5%8F%96%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7+%E7%88%B7%E7%88%B7%E6%84%9F%E8%B0%A2%E4%BA%B2%E5%AE%B6%E6%AF%8D",
+          "title": "拜登儿子称拜登癌症扩散",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E7%A7%B0%E6%8B%9C%E7%99%BB%E7%99%8C%E7%97%87%E6%89%A9%E6%95%A3%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "“到此一拿”都藏着哪些风险",
+          "url": "https://www.douyin.com/hot/2602866",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "录取到浙大农学，我应该选择复读还是进大学转专业？",
+          "url": "https://www.zhihu.com/question/2062672836922184193",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "89岁婆婆34年坚持锻炼",
+          "url": "https://www.toutiao.com/trending/7671623822897987627/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "原北京军区副司令员李永金逝世",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%8C%97%E4%BA%AC%E5%86%9B%E5%8C%BA%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E6%9D%8E%E6%B0%B8%E9%87%91%E9%80%9D%E4%B8%96",
           "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时06分"
         },
         {
           "title": "据阿曼国家通讯社：阿曼方面表示，关于霍尔木兹海峡安排的持续谈判是积极的和具有建设性的。",
@@ -5634,6 +6654,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "据票务平台实时数据，截至8月9日9时19分，影片《奥德赛》点映及预售总票房突破6000万。",
+          "url": "https://flash.jin10.com/detail/20260809092601754800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "敖瑞鹏王玉雯正太扭腰来了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%AD%A3%E5%A4%AA%E6%89%AD%E8%85%B0%E6%9D%A5%E4%BA%86%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -5645,26 +6676,37 @@
           "time_info": "00时41分"
         },
         {
-          "title": "你心目中最好的十款单机游戏是什么？",
-          "url": "https://www.zhihu.com/question/479719590",
-          "source": "知乎",
+          "title": "张雅琪中餐厅干活被指推诿",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E4%B8%AD%E9%A4%90%E5%8E%85%E5%B9%B2%E6%B4%BB%E8%A2%AB%E6%8C%87%E6%8E%A8%E8%AF%BF&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时06分"
         },
         {
-          "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746518",
-          "source": "澎湃新闻",
+          "title": "“伊斯兰版北约”出现",
+          "url": "https://www.toutiao.com/trending/7671490081631633444/",
+          "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时06分"
+        },
+        {
+          "title": "谢霆锋演唱会隔空祝王菲生日快乐",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9A%94%E7%A9%BA%E7%A5%9D%E7%8E%8B%E8%8F%B2%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "据阿曼国家通讯社：阿曼方面谴责（伊朗）在霍尔木兹海峡过境时对船只的反复攻击。",
@@ -5678,15 +6720,81 @@
           "time_info": "00时41分"
         },
         {
+          "title": "中国7月CPI年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260809092000001800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "成毅雨中跪下和粉丝合影",
           "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E9%9B%A8%E4%B8%AD%E8%B7%AA%E4%B8%8B%E5%92%8C%E7%B2%89%E4%B8%9D%E5%90%88%E5%BD%B1%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "白海豚10级风圈",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A10%E7%BA%A7%E9%A3%8E%E5%9C%88%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "BLG战胜EDG",
+          "url": "https://www.douyin.com/hot/2602676",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "网球影响力为何远远大于羽毛球乒乓球?",
+          "url": "https://www.zhihu.com/question/30020661",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "浙江沿海狂风暴雨摄像头剧烈震颤",
+          "url": "https://www.toutiao.com/trending/7671579166454546495/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "这种手机壳可能是医疗垃圾做的",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "中国最贵的泥什么样",
@@ -5706,7 +6814,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -5722,6 +6830,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "金十数据整理：每日科技要闻速递（8月9日）",
+          "url": "https://flash.jin10.com/detail/20260809091613424800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "网传张凌赫准备考研了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%87%86%E5%A4%87%E8%80%83%E7%A0%94%E4%BA%86%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -5731,6 +6850,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "TOP演唱会官宣徐州",
+          "url": "https://s.weibo.com/weibo?q=%23TOP%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E5%BE%90%E5%B7%9E%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "任素汐北京演唱会",
+          "url": "https://www.douyin.com/hot/2602545",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "婚外胚胎案男方再发声，在三方律师见证下已销毁胚胎，正遭受严重网暴准备报警，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2068384820644800140",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "台铃电动车仅骑一年就断电趴窝",
+          "url": "https://www.toutiao.com/trending/7671579485590503465/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "白海豚10级风圈已触及浙江台州",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E6%B5%B7%E8%B1%9A10%E7%BA%A7%E9%A3%8E%E5%9C%88%E5%B7%B2%E8%A7%A6%E5%8F%8A%E6%B5%99%E6%B1%9F%E5%8F%B0%E5%B7%9E",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "沙特已消耗86%的“爱国者”导弹库存",
@@ -5744,6 +6918,39 @@
           "time_info": "00时41分"
         },
         {
+          "title": "市场消息：沙特阿拉伯朱拜尔工业城燃气设施发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260809091020252800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "梁朝伟、梁家辉、周星驰，演技排名到底该怎么排？",
+          "url": "https://www.zhihu.com/question/2063285568411379508",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "陕西省委书记观摩直播同董宇辉交流",
+          "url": "https://www.toutiao.com/trending/7671672160546701322/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "英国海事贸易组织：有可靠消息来源报告称，一艘船只遭到不明飞行物袭击导致火灾，现已被扑灭。船员已报告安全，无环境影响。",
           "url": "https://flash.jin10.com/detail/20260808211407439800",
           "source": "金十数据",
@@ -5755,15 +6962,70 @@
           "time_info": "00时41分"
         },
         {
+          "title": "VIP・95折订阅全新报告体系！",
+          "url": "https://flash.jin10.com/detail/20260809090007807800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "男子承认出轨20万赠与第三者追不回",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A820%E4%B8%87%E8%B5%A0%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%80%85%E8%BF%BD%E4%B8%8D%E5%9B%9E%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "内蒙古第十六届运动会启幕",
+          "url": "https://www.douyin.com/hot/2602706",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？",
           "url": "https://www.zhihu.com/question/2064051997364506846",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "多地停车场计费试行取消「向上取整」，「按分钟计费」试点加速落地，如何看待这一调整？值得推广吗？",
+          "url": "https://www.zhihu.com/question/2068298447619364747",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "洪水退去后村民排队领取厨房九件套",
+          "url": "https://www.toutiao.com/trending/7671005512385347634/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -5777,6 +7039,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "黄子韬徐艺洋直播互扇巴掌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E7%9B%B4%E6%92%AD%E4%BA%92%E6%89%87%E5%B7%B4%E6%8E%8C",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "英国海事贸易组织：已收到关于在阿曼哈萨布东18海里发生事件的报告。",
           "url": "https://flash.jin10.com/detail/20260808210901468800",
           "source": "金十数据",
@@ -5786,6 +7059,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/y_xv4lKSiuAni719pfe5I.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260809090005978800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "原来这就是大大方方的表达",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E7%9A%84%E8%A1%A8%E8%BE%BE&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "你对自己孩子的教育理念是什么?",
@@ -5805,7 +7100,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -5816,9 +7111,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "台风将至有超市叶菜肉类3小时售罄",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B0%86%E8%87%B3%E6%9C%89%E8%B6%85%E5%B8%82%E5%8F%B6%E8%8F%9C%E8%82%89%E7%B1%BB3%E5%B0%8F%E6%97%B6%E5%94%AE%E7%BD%84",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "Pro Farmer一周展望：天气窗口转向利好，CBOT大豆的“8月压力”有多大？",
@@ -5832,6 +7138,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "马斯克：第三代星链卫星（V3）综合性能比V2高出一个数量级",
+          "url": "https://flash.jin10.com/detail/20260809085801985800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "苹果AI 千问",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -5843,15 +7160,26 @@
           "time_info": "00时41分"
         },
         {
-          "title": "AI帮你开发以前要花钱的功能",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "2026 暑期档国产片频繁提档、撤档，进口片档期却基本不变，可能有哪些原因？频繁调整档期的影响有多大？",
+          "url": "https://www.zhihu.com/question/2067995468202599329",
+          "source": "知乎",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时06分"
+        },
+        {
+          "title": "拜登前列腺癌恶化",
+          "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E6%81%B6%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
@@ -5865,6 +7193,39 @@
           "time_info": "00时41分"
         },
         {
+          "title": "金十数据整理：中东局势跟踪（8月9日）",
+          "url": "https://flash.jin10.com/detail/20260809085609996800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "台风白海豚10日夜间或将进入安徽",
+          "url": "https://www.douyin.com/hot/2602300",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "三警齐发！多地10级以上雷暴大风",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E8%AD%A6%E9%BD%90%E5%8F%91%EF%BC%81%E5%A4%9A%E5%9C%B010%E7%BA%A7%E4%BB%A5%E4%B8%8A%E9%9B%B7%E6%9A%B4%E5%A4%A7%E9%A3%8E",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "泰国校园枪击案死亡人数升至9人",
           "url": "https://flash.jin10.com/detail/20260808204826895800",
           "source": "金十数据",
@@ -5874,6 +7235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "韩股最动荡阶段或已结束，“去杠杆”后波动率回落至两个月低点",
+          "url": "https://flash.jin10.com/detail/20260809085352753800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "曾辉韩雨彤红毯状态",
@@ -5887,6 +7259,39 @@
           "time_info": "00时41分"
         },
         {
+          "title": "C罗发表情包回应婚礼",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%8F%91%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%9E%E5%BA%94%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "车站仅开放一处检票通道旅客排队暴晒",
+          "url": "https://www.toutiao.com/trending/7671653358259781638/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "白海豚逼近狂风暴雨 摄像头剧烈震颤",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E6%B5%B7%E8%B1%9A%E9%80%BC%E8%BF%91%E7%8B%82%E9%A3%8E%E6%9A%B4%E9%9B%A8+%E6%91%84%E5%83%8F%E5%A4%B4%E5%89%A7%E7%83%88%E9%9C%87%E9%A2%A4",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "VIP・95折库存日报首发上线！",
           "url": "https://flash.jin10.com/detail/20260808204659810800",
           "source": "金十数据",
@@ -5896,6 +7301,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "日本大饭核电站3号机组因发电机异常停止运行",
+          "url": "https://flash.jin10.com/detail/20260809084805274800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "程潇正太扭腰",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E6%AD%A3%E5%A4%AA%E6%89%AD%E8%85%B0%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "如何看待特朗普加沙和平计划陷僵局",
+          "url": "https://www.toutiao.com/trending/7671678765432311334/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/tcWa66qJEjxbSJWe5UQL6.jpg/lite\" height=\"120\"/></a>",
@@ -5918,6 +7356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "博主：俄军攻破奥列霍夫两翼",
+          "url": "https://www.toutiao.com/trending/7671797392223505983/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "水利部将针对浙江省的洪水防御应急响应提升至Ⅲ级",
@@ -5953,7 +7402,40 @@
           "time_info": "00时41分"
         },
         {
+          "title": "国乒男单无缘四强",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E6%97%A0%E7%BC%98%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "解析台风白海豚的反常特征",
+          "url": "https://www.douyin.com/hot/2602591",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "CCTV-4迎来两位新主播",
+          "url": "https://www.toutiao.com/trending/7671394717946527785/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "央视主播迎来两个新面孔",
           "url": "https://www.toutiao.com/trending/7671394717946527785/",
           "source": "今日头条",
           "ranks": [
@@ -5961,7 +7443,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时06分"
         },
         {
           "title": "警方捣毁为电诈提供服务黑灰产团伙",
@@ -5973,6 +7455,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "经常半夜醒要排查6种疾病",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%8F%E5%B8%B8%E5%8D%8A%E5%A4%9C%E9%86%92%E8%A6%81%E6%8E%92%E6%9F%A56%E7%A7%8D%E7%96%BE%E7%97%85",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "曝费兰托雷斯和巴黎达成协议",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E8%B4%B9%E5%85%B0%E6%89%98%E9%9B%B7%E6%96%AF%E5%92%8C%E5%B7%B4%E9%BB%8E%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "丁禹兮红包",
@@ -5992,9 +7496,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "王橹杰原视频中可以听到蝴蝶",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%8E%9F%E8%A7%86%E9%A2%91%E4%B8%AD%E5%8F%AF%E4%BB%A5%E5%90%AC%E5%88%B0%E8%9D%B4%E8%9D%B6&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "孙子考取上海交大爷爷感谢亲家母",
@@ -6003,7 +7518,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -6014,9 +7529,31 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "白鹿户外氛围感随拍",
+          "url": "https://www.douyin.com/hot/2602769",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "台湾现巨型龙卷风树被连根拔起",
+          "url": "https://www.toutiao.com/trending/7671133898203086854/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "60度低头玩手机等于脖子扛50斤水泥",
@@ -6030,6 +7567,17 @@
           "time_info": "03时35分"
         },
         {
+          "title": "青海兰州在抢一碗面？这么说格局小了",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%85%B0%E5%B7%9E%E5%9C%A8%E6%8A%A2%E4%B8%80%E7%A2%97%E9%9D%A2%EF%BC%9F%E8%BF%99%E4%B9%88%E8%AF%B4%E6%A0%BC%E5%B1%80%E5%B0%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "三国语言版三国杀",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%9B%BD%E8%AF%AD%E8%A8%80%E7%89%88%E4%B8%89%E5%9B%BD%E6%9D%80",
           "source": "bilibili 热搜",
@@ -6041,17 +7589,6 @@
           "time_info": "00时41分"
         },
         {
-          "title": "罗子君近期为何再次翻红",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%AD%90%E5%90%9B%E8%BF%91%E6%9C%9F%E4%B8%BA%E4%BD%95%E5%86%8D%E6%AC%A1%E7%BF%BB%E7%BA%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
           "title": "白躲,逃犯荒野求生21年落网",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356941&amp;topic_name=%E7%99%BD%E8%BA%B2%2C%E9%80%83%E7%8A%AF%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F21%E5%B9%B4%E8%90%BD%E7%BD%91",
           "source": "贴吧",
@@ -6061,6 +7598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "宇树科技上市",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "家门口徒步燃起来了",
@@ -6080,7 +7628,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
